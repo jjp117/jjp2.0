@@ -28,11 +28,11 @@ Implemented as static web page. All computations run locally inside browser sand
 <br>
 
 <p align="center">
-<a href="https://123-a2r.pages.dev/" target="_blank">
+<a href="https://jjp2.pages.dev/" target="_blank">
 <img src="https://img.shields.io/badge/🔗Open‑JJP_Web‑2563eb?style=for‑the‑badge&logo=googlechrome&logoColor=white" width="320" alt="Open JJP Web">
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/jjp117/jjp/releases" target="_blank">
+<a href="https://github.com/jjp117/jjp2.0/releases" target="_blank">
 <img src="https://img.shields.io/badge/📥Download‑Desktop_Build‑2ea44f?style=for‑the‑badge&logo=windows&logoColor=white" width="320" alt="Download Client">
 </a>
 </p>
