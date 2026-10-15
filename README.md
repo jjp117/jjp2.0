@@ -22,7 +22,7 @@
 </p>
 <br>
 <p align="center">
-<a href="[https://jjp2.pages.dev/]" target="_blank">
+<a href="https://jjp2.pages.dev/" target="_blank">
 <img src="https://img.shields.io/badge/🔗立即访问‑JJP网页-2563eb?style=for-the-badge&logo=https://jjp2.pages.dev//1.png&logoColor=white" width="320" alt="打开JJP网页">
 </a>
 &nbsp;&nbsp;
