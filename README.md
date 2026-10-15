@@ -23,7 +23,7 @@
 <br>
 <p align="center">
 <a href="https://jjp-c3e.pages.dev/" target="_blank">
-<img src="https://img.shields.io/badge/🔗立即访问‑JJP网页-2563eb?style=for-the-badge&logo=https://jjp-c3e.pages.dev/1.png&logoColor=white" width="320" alt="打开JJP网页">
+<img src="https://img.shields.io/badge/🔗立即访问‑JJP网页-2563eb?style=for-the-badge&logo=https://jjp2.pages.dev//1.png&logoColor=white" width="320" alt="打开JJP网页">
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/jjp117/jjp/releases" target="_blank">
