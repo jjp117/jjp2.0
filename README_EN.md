@@ -59,7 +59,6 @@ JJP is a proprietary format. The file structure is defined by the author of this
 ## Usage
 Open the web version and use it directly. Users drag a file into the page and enter a password to generate a JJP file. To restore the original file, drag the JJP file into the page and enter the same password. The entire process requires no installation, no registration, and no internet connection.
 
-> Web version: https://123‑a2r.pages.dev/
 
 ## Security note
 JJP provides symmetric encryption of conventional strength, which can effectively prevent files from being casually viewed. However, JJP is not a commercial‑grade or military‑grade encryption solution. It is not suitable for protecting corporate secrets, government data, financial information, or other high‑value sensitive content.
